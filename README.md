@@ -326,6 +326,16 @@ If necessary, use `RESET-H4K` to recreate a clean DVWA environment.
 
 ---
 
+## Lab copy/paste helpers
+
+For the longer commands and scripts used in Labs 2 and 8, see:
+
+**[H4K-LAB-COPY-PASTE.md](H4K-LAB-COPY-PASTE.md)**
+
+Use the lab book for the exercise instructions and explanations; this page is only for easier copy/paste.
+
+---
+
 ## Safety
 
 DVWA is deliberately vulnerable and the Kali environment contains real security-testing tools.
